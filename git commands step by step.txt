@@ -1,0 +1,9 @@
+git clone + plase git repository url here
+
+git status
+
+git add .
+
+git commit -m "should be commit here"
+
+git push
