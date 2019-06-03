@@ -1,5 +1,7 @@
 git clone + plase git repository url here
 
+	after go to project folder (Ex: cd/.....)
+
 git status
 
 git add .
