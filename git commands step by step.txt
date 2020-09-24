@@ -9,3 +9,7 @@ git add .
 git commit -m "should be commit here"
 
 git push
+
+git commit --amend --no-edit
+git push --force / git push f
+
